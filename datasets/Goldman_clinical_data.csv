@@ -1,0 +1,266 @@
+﻿Study Subject ID,Sample ID,Blood draw time point,Patient Location,Who Ordinal Scale,Sex,Age,Ethnicity,Race,BMI,Asthma,Cancer,Chronic Hypertension,Cigarette Smoking,Chronic Kidney Disease,Congestive Heart Failure,COPD,Coronary Artery Disease,Diabetes,HIV,Mechanical Ventilation,Respiratory Support,Temperature,Systolic BP,Diastolic BP,10X?,Metabolomics,Proteomics?,Isoplexis CD8 assay?,Isoplexis CD4 assay?,Isoplexis Monocyte assay?
+INCOV001,INCOV001-1,T1,Hospital,3,Female,77,NOT Hispanic or Latino,White,33.65778285,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,36.6,139,60,yes,yes,yes,yes,yes,yes
+INCOV001,INCOV001-2,T2,Hospital,3,Female,77,NOT Hispanic or Latino,White,33.65778285,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,36.3,140,76,yes,yes,yes,yes,yes,yes
+INCOV002,INCOV002-1,T1,ICU,5,Male,39,NOT Hispanic or Latino,White,27.90074717,No,No,No,NA,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),37.3,96,57,yes,yes,yes,yes,yes,yes
+INCOV002,INCOV002-2,T2,ICU,7,Male,39,NOT Hispanic or Latino,White,29.16197168,No,No,No,NA,No,No,No,No,No,No,TRUE,Other,36.8,125,74,yes,yes,yes,yes,yes,yes
+INCOV003,INCOV003-1,T1,ICU,7,Male,64,NOT Hispanic or Latino,White,24.54698787,No,No,Yes,Never,Yes,No,No,No,No,No,TRUE,Other,37.2,89,50,yes,yes,yes,yes,yes,yes
+INCOV003,INCOV003-2,T2,ICU,6,Male,64,NOT Hispanic or Latino,White,25.68576566,No,No,Yes,Never,Yes,No,No,No,No,No,TRUE,Other,36.8,97,61,yes,yes,yes,yes,yes,yes
+INCOV004,INCOV004-1,T1,Hospital,4,Male,76,NOT Hispanic or Latino,White,23.47762033,No,Yes,No,Former,No,Yes,Yes,Yes,No,No,FALSE,Nasal cannula,36.2,137,64,yes,yes,yes,yes,yes,yes
+INCOV004,INCOV004-2,T2,Hospital,4,Male,76,NOT Hispanic or Latino,White,23.21578813,No,Yes,No,Former,No,Yes,Yes,Yes,No,No,FALSE,Nasal cannula,36.4,126,58,yes,yes,yes,yes,yes,yes
+INCOV005,INCOV005-1,T1,Hospital,4,Male,75,NOT Hispanic or Latino,White,29.70312063,No,No,Yes,Former,No,No,Yes,No,No,No,FALSE,Nasal cannula,36.8,126,105,yes,yes,yes,yes,yes,yes
+INCOV005,INCOV005-2,T2,ICU,5,Male,75,NOT Hispanic or Latino,White,30.14597866,No,No,Yes,Former,No,No,Yes,No,No,No,FALSE,High flow nasal cannula (HFNC),36.6,130,79,yes,yes,yes,yes,yes,yes
+INCOV006,INCOV006-1,T1,Hospital,4,Male,26,NOT Hispanic or Latino,Unknown / Not Reported,34.38975627,No,No,No,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.4,107,65,yes,yes,yes,yes,yes,yes
+INCOV006,INCOV006-2,T2,Hospital,3,Male,26,NOT Hispanic or Latino,Unknown / Not Reported,34.38975627,No,No,No,Never,No,No,No,No,No,No,FALSE,None,36.3,102,66,yes,yes,yes,yes,yes,yes
+INCOV007,INCOV007-1,T1,Hospital,4,Male,57,NOT Hispanic or Latino,White,25.65413294,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,37.9,99,62,yes,yes,yes,no,no,no
+INCOV007,INCOV007-2,T2,Hospital,4,Male,57,NOT Hispanic or Latino,White,23.09188292,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.4,117,68,yes,yes,yes,no,no,no
+INCOV008,INCOV008-1,T1,ICU,7,Male,78,NOT Hispanic or Latino,Black or African American,26.78814307,No,Yes,No,Former,No,No,No,No,No,No,TRUE,Other,37.1,127,60,yes,yes,yes,yes,yes,yes
+INCOV009,INCOV009-1,T1,Hospital,4,Female,65,NOT Hispanic or Latino,Asian,23.80951321,No,No,No,Never,Yes,No,No,Yes,T2DM,No,FALSE,Nasal cannula,36.1,129,68,yes,yes,yes,no,no,no
+INCOV009,INCOV009-2,T2,Hospital,4,Female,65,NOT Hispanic or Latino,Asian,22.60791161,No,No,No,Never,Yes,No,No,Yes,T2DM,No,FALSE,Nasal cannula,36.4,110,52,yes,yes,yes,no,no,no
+INCOV010,INCOV010-1,T1,Hospital,3,Female,40,NOT Hispanic or Latino,Black or African American,24.84891291,No,No,No,Never,No,No,No,No,No,No,FALSE,None,37,133,90,yes,yes,yes,yes,yes,yes
+INCOV010,INCOV010-2,T2,Home (mobile phlebotomy),1,Female,40,NOT Hispanic or Latino,Black or African American,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,yes,yes,yes
+INCOV011,INCOV011-1,T1,Hospital,3,Male,89,NOT Hispanic or Latino,White,17.87247421,No,No,Yes,Never,No,No,No,Yes,No,No,FALSE,None,36.6,141,73,yes,yes,yes,yes,yes,yes
+INCOV011,INCOV011-2,T2,Hospital,3,Male,89,NOT Hispanic or Latino,White,17.47257375,No,No,Yes,Never,No,No,No,Yes,No,No,FALSE,None,36.7,137,74,yes,yes,yes,yes,yes,yes
+INCOV012,INCOV012-1,T1,Hospital,4,Female,73,NOT Hispanic or Latino,White,20.46875,No,No,Yes,Never,No,Yes,No,Yes,T2DM,No,FALSE,Nasal cannula,36.3,147,67,yes,yes,yes,yes,yes,yes
+INCOV012,INCOV012-2,T2,Hospital,4,Female,73,NOT Hispanic or Latino,White,20.46875,No,No,Yes,Never,No,Yes,No,Yes,T2DM,No,FALSE,Nasal cannula,36.6,140,71,yes,yes,yes,yes,yes,yes
+INCOV013,INCOV013-2,T2,ICU,5,Female,71,Unknown / Not Reported,White,36.79572384,No,No,Yes,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.5,175,93,yes,yes,yes,no,no,no
+INCOV013,INCOV013-1,T1,ICU,7,Female,71,Unknown / Not Reported,White,36.91999873,No,No,Yes,Former,No,No,No,No,No,No,TRUE,Other,36.9,106,51,yes,yes,yes,no,no,no
+INCOV014,INCOV014-1,T1,Hospital,4,Male,76,NOT Hispanic or Latino,White,22.42102122,No,No,No,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.7,100,50,yes,yes,yes,yes,yes,yes
+INCOV015,INCOV015-1,T1,Hospital,4,Female,67,NOT Hispanic or Latino,Asian,27.12505425,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,37,123,74,yes,yes,yes,no,no,yes
+INCOV015,INCOV015-2,T2,Hospital,5,Female,67,NOT Hispanic or Latino,Asian,27.12505425,No,No,Yes,Never,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.7,134,76,yes,yes,yes,no,no,yes
+INCOV016,INCOV016-1,T1,Hospital,4,Male,37,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,38.11384591,No,No,No,Former,No,No,No,No,No,No,FALSE,Nasal cannula,38,117,61,yes,yes,yes,no,no,no
+INCOV016,INCOV016-2,T2,Hospital,4,Male,37,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,38.11384591,No,No,No,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.8,121,75,yes,yes,yes,no,no,no
+INCOV017,INCOV017-2,T2,Hospital,3,Male,57,NOT Hispanic or Latino,Asian,25.01233014,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,37.1,140,68,yes,yes,yes,yes,yes,yes
+INCOV017,INCOV017-1,T1,Hospital,3,Male,57,NOT Hispanic or Latino,Asian,24.64351562,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,37.3,140,80,yes,yes,yes,no,no,no
+INCOV018,INCOV018-1,T1,Hospital,3,Male,69,NOT Hispanic or Latino,White,32.61333053,No,No,Yes,Never,No,Yes,No,No,No,No,FALSE,None,36.7,123,89,yes,yes,yes,no,no,no
+INCOV018,INCOV018-2,T2,Hospital,3,Male,69,NOT Hispanic or Latino,White,32.3602688,No,No,Yes,Never,No,Yes,No,No,No,No,FALSE,None,36.5,101,64,yes,yes,yes,no,no,no
+INCOV019,INCOV019-1,T1,Hospital,3,Male,81,NOT Hispanic or Latino,White,27.62572553,No,No,Yes,Former,No,No,No,No,T2DM,No,FALSE,None,36.7,153,81,yes,yes,yes,yes,yes,yes
+INCOV019,INCOV019-2,T2,Hospital,3,Male,81,NOT Hispanic or Latino,White,27.62572553,No,No,Yes,Former,No,No,No,No,T2DM,No,FALSE,None,36.4,142,68,yes,yes,yes,no,no,no
+INCOV020,INCOV020-1,T1,ICU,7,Male,55,Hispanic or Latino,Unknown / Not Reported,33.71486033,No,No,No,Former,No,No,No,No,T2DM,No,TRUE,Other,36.7,99,45,yes,yes,yes,no,no,no
+INCOV020,INCOV020-2,T2,ICU,6,Male,55,Hispanic or Latino,Unknown / Not Reported,31.88053713,No,No,No,Former,No,No,No,No,T2DM,No,TRUE,Other,36.8,115,57,yes,yes,yes,no,no,no
+INCOV021,INCOV021-1,T1,Hospital,3,Male,67,NOT Hispanic or Latino,Black or African American,22.36012293,Yes,No,Yes,Current,No,Yes,No,No,T2DM,No,FALSE,None,36.9,117,68,no,yes,yes,no,no,no
+INCOV022,INCOV022-1,T1,ICU,7,Female,55,NOT Hispanic or Latino,Black or African American,27.80833964,No,No,Yes,Unknown,No,No,No,No,T2DM,No,TRUE,Other,36.5,128,61,yes,yes,yes,yes,yes,yes
+INCOV022,INCOV022-2,T2,ICU,6,Female,55,NOT Hispanic or Latino,Black or African American,27.91839903,No,No,Yes,Unknown,No,No,No,No,T2DM,No,TRUE,Other,37.4,105,48,yes,yes,yes,yes,yes,yes
+INCOV023,INCOV023-1,T1,Hospital,3,Female,71,NOT Hispanic or Latino,Black or African American,34.60983817,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,37.1,174,87,yes,yes,yes,yes,yes,yes
+INCOV023,INCOV023-2,T2,Hospital,3,Female,71,NOT Hispanic or Latino,Black or African American,33.64845377,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,37.1,140,65,yes,yes,yes,no,no,no
+INCOV024,INCOV024-1,T1,Hospital,3,Female,61,NOT Hispanic or Latino,White,40.93206281,Yes,No,Yes,Never,No,No,No,No,No,No,FALSE,None,36.4,141,74,yes,yes,yes,yes,yes,yes
+INCOV024,INCOV024-2,T2,Home (mobile phlebotomy),2,Female,61,NOT Hispanic or Latino,White,NA,Yes,No,Yes,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV025,INCOV025-1,T1,ICU,5,Female,67,NOT Hispanic or Latino,White,28.22897867,No,No,No,Never,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.8,121,93,yes,yes,yes,no,no,yes
+INCOV025,INCOV025-2,T2,ICU,5,Female,67,NOT Hispanic or Latino,White,27.90503957,No,No,No,Never,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.8,130,63,yes,yes,yes,no,no,yes
+INCOV026,INCOV026-1,T1,ICU,7,Male,33,Hispanic or Latino,Unknown / Not Reported,45.19031142,No,No,No,NA,No,No,No,No,No,No,TRUE,Other,36.5,111,65,yes,yes,yes,no,no,no
+INCOV026,INCOV026-2,T2,ICU,7,Male,33,Hispanic or Latino,Unknown / Not Reported,43.80622837,No,No,No,NA,No,No,No,No,No,No,TRUE,Other,36.5,119,55,yes,yes,yes,no,no,no
+INCOV027,INCOV027-2,T2,Hospital,4,Female,38,NOT Hispanic or Latino,Asian,39.87513007,Yes,No,No,Never,No,No,No,No,T2DM,No,FALSE,Nasal cannula,36.7,98,61,yes,yes,yes,yes,yes,yes
+INCOV027,INCOV027-1,T1,Hospital,3,Female,38,NOT Hispanic or Latino,Asian,39.87513007,Yes,No,No,Never,No,No,No,No,T2DM,No,FALSE,None,37.8,126,65,yes,yes,yes,no,no,no
+INCOV028,INCOV028-1,T1,Hospital,3,Male,64,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,38.7962963,No,No,Yes,Former,Yes,No,No,Yes,T1DM,No,FALSE,None,36.7,121,67,yes,yes,yes,no,no,no
+INCOV028,INCOV028-2,T2,Hospital,3,Male,64,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,39.62962963,No,No,Yes,Former,Yes,No,No,Yes,T1DM,No,FALSE,None,36.8,137,67,yes,yes,yes,no,no,no
+INCOV029,INCOV029-1,T1,ICU,5,Female,66,NOT Hispanic or Latino,Black or African American,36.6015625,No,No,No,Former,Yes,No,Yes,No,No,No,FALSE,High flow nasal cannula (HFNC),36.8,91,52,yes,yes,yes,yes,yes,yes
+INCOV029,INCOV029-2,T2,Hospital,4,Female,66,NOT Hispanic or Latino,Black or African American,36.6796875,No,No,No,Former,Yes,No,Yes,No,No,No,FALSE,Nasal cannula,36.4,113,63,yes,yes,yes,no,no,no
+INCOV030,INCOV030-1,T1,Hospital,4,Female,86,NOT Hispanic or Latino,White,25.90878525,No,No,No,Never,No,No,No,No,No,No,FALSE,Nasal cannula,37,148,82,yes,yes,yes,no,no,no
+INCOV030,INCOV030-2,T2,Hospital,3,Female,86,NOT Hispanic or Latino,White,25.82967446,No,No,No,Never,No,No,No,No,No,No,FALSE,None,37.2,146,79,yes,yes,yes,no,no,no
+INCOV031,INCOV031-1,T1,ICU,6,Male,47,Hispanic or Latino,Unknown / Not Reported,25.63211647,No,No,Yes,Never,No,No,No,No,No,No,TRUE,Other,37.1,152,69,yes,yes,yes,yes,yes,yes
+INCOV031,INCOV031-2,T2,ICU,6,Male,47,Hispanic or Latino,Unknown / Not Reported,28.15972796,No,No,Yes,Never,No,No,No,No,No,No,TRUE,Other,37.4,130,58,yes,yes,yes,no,no,no
+INCOV032,INCOV032-1,T1,ICU,5,Male,63,Hispanic or Latino,Unknown / Not Reported,34.1761553,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,High flow nasal cannula (HFNC),36.8,114,61,yes,yes,yes,yes,yes,yes
+INCOV032,INCOV032-2,T2,Hospital,5,Male,63,Hispanic or Latino,Unknown / Not Reported,34.95935886,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,High flow nasal cannula (HFNC),36.9,115,81,yes,yes,yes,no,no,no
+INCOV033,INCOV033-2,T2,Hospital,5,Female,88,NOT Hispanic or Latino,White,26.85449158,No,Yes,Yes,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.3,119,45,yes,yes,yes,yes,yes,yes
+INCOV033,INCOV033-1,T1,Hospital,5,Female,88,NOT Hispanic or Latino,White,26.85449158,No,Yes,Yes,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),38.2,118,47,yes,yes,yes,no,no,no
+INCOV034,INCOV034-1,T1,Hospital,3,Male,30,NOT Hispanic or Latino,Asian,40.53854262,No,No,No,Former,No,No,No,No,No,No,FALSE,None,36.7,116,70,yes,yes,yes,yes,yes,yes
+INCOV034,INCOV034-2,T2,Home (mobile phlebotomy),1,Male,30,NOT Hispanic or Latino,Asian,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV035,INCOV035-1,T1,ICU,7,Male,61,NOT Hispanic or Latino,Asian,26.96455097,No,No,Yes,NA,No,No,No,No,T2DM,No,TRUE,Other,37.9,175,77,yes,yes,yes,yes,yes,yes
+INCOV035,INCOV035-2,T2,ICU,7,Male,61,NOT Hispanic or Latino,Asian,26.41425401,No,No,Yes,NA,No,No,No,No,T2DM,No,TRUE,Other,38.2,164,68,yes,yes,yes,no,no,no
+INCOV036,INCOV036-1,T1,Hospital,7,Male,51,NOT Hispanic or Latino,White,29.30816168,Yes,No,No,Never,No,No,No,No,No,No,TRUE,Other,38.2,101,48,yes,yes,yes,no,no,no
+INCOV036,INCOV036-2,T2,Hospital,6,Male,51,NOT Hispanic or Latino,White,30.33066787,Yes,No,No,Never,No,No,No,No,No,No,TRUE,Other,36.7,150,73,yes,yes,yes,no,no,no
+INCOV037,INCOV037-1,T1,Hospital,4,Female,70,NOT Hispanic or Latino,Black or African American,28.74567491,No,No,Yes,Former,No,No,Yes,No,No,No,FALSE,Nasal cannula,36.9,105,77,no,yes,yes,no,no,no
+INCOV038,INCOV038-1,T1,Hospital,3,Male,18,Hispanic or Latino,Unknown / Not Reported,NA,Yes,No,No,Former,No,No,No,No,No,No,FALSE,None,36.8,100,55,no,yes,yes,no,no,no
+INCOV039,INCOV039-1,T1,Home (mobile phlebotomy),1,Female,38,NOT Hispanic or Latino,White,NA,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,yes,yes,yes
+INCOV039,INCOV039-2,T2,Home (mobile phlebotomy),1 or 2,Female,38,NOT Hispanic or Latino,White,NA,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV040,INCOV040-2,T2,Home (mobile phlebotomy),1 or 2,Female,76,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,yes,yes,yes
+INCOV040,INCOV040-1,T1,Hospital,3,Female,76,NOT Hispanic or Latino,White,20.69887669,No,No,No,Never,No,No,No,No,No,No,FALSE,None,36.7,112,55,yes,yes,yes,no,no,no
+INCOV041,INCOV041-2,T2,Hospital,6,Male,65,NOT Hispanic or Latino,White,33.54938272,No,No,Yes,Never,No,No,No,No,T2DM,No,TRUE,Other,36.8,111,59,yes,yes,yes,yes,yes,yes
+INCOV041,INCOV041-1,T1,Hospital,5,Male,65,NOT Hispanic or Latino,White,34.87654321,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,High flow nasal cannula (HFNC),37.2,140,54,yes,yes,yes,no,no,no
+INCOV042,INCOV042-2,T2,Home (mobile phlebotomy),1 or 2,Female,60,NOT Hispanic or Latino,Unknown / Not Reported,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,yes,yes,yes
+INCOV042,INCOV042-1,T1,Home (mobile phlebotomy),1,Female,60,NOT Hispanic or Latino,Unknown / Not Reported,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV043,INCOV043-1,T1,Hospital,3,Male,75,NOT Hispanic or Latino,White,22.60464351,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,None,36.5,110,75,yes,yes,yes,yes,yes,yes
+INCOV043,INCOV043-2,T2,Hospital,3,Male,75,NOT Hispanic or Latino,White,21.16170061,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,None,36.4,123,76,yes,yes,yes,no,no,no
+INCOV044,INCOV044-1,T1,Hospital,4,Female,82,NOT Hispanic or Latino,White,25.45411566,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.6,127,77,yes,yes,yes,yes,yes,yes
+INCOV044,INCOV044-2,T2,Hospital,4,Female,82,NOT Hispanic or Latino,White,25.45411566,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.3,119,58,yes,yes,yes,no,no,no
+INCOV045,INCOV045-2,T2,Home (mobile phlebotomy),1 or 2,Female,48,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,yes,yes,yes
+INCOV045,INCOV045-1,T1,Hospital,4,Female,48,NOT Hispanic or Latino,White,22.50937639,No,No,No,Never,No,No,No,No,No,No,FALSE,Nasal cannula,37,108,80,yes,yes,yes,no,no,no
+INCOV047,INCOV047-1,T1,ICU,5,Male,61,NOT Hispanic or Latino,White,35.12971694,No,No,No,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),37.1,116,80,yes,yes,yes,yes,yes,yes
+INCOV047,INCOV047-2,T2,ICU,5,Male,61,NOT Hispanic or Latino,White,34.42220075,No,No,No,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.8,100,15,yes,yes,yes,no,no,no
+INCOV048,INCOV048-1,T1,ICU,6,Male,64,NOT Hispanic or Latino,White,23.10545707,No,No,No,Never,No,No,No,No,No,No,TRUE,Other,36.5,119,78,yes,yes,yes,yes,yes,yes
+INCOV049,INCOV049-2,T2,Hospital,3,Male,82,NOT Hispanic or Latino,White,25.77845848,No,No,Yes,Never,Yes,No,No,Yes,No,No,FALSE,None,37.2,110,75,yes,yes,yes,yes,yes,yes
+INCOV049,INCOV049-1,T1,Hospital,3,Male,82,NOT Hispanic or Latino,White,25.77845848,No,No,Yes,Never,Yes,No,No,Yes,No,No,FALSE,None,37.1,119,85,yes,yes,yes,no,no,no
+INCOV050,INCOV050-2,T2,Hospital,3,Female,89,NOT Hispanic or Latino,White,18.28356615,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,36.4,134,67,yes,yes,yes,yes,yes,yes
+INCOV050,INCOV050-1,T1,Hospital,3,Female,89,NOT Hispanic or Latino,White,17.72822419,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,36.3,150,79,yes,yes,yes,no,no,no
+INCOV051,INCOV051-1,T1,ICU,5,Male,34,Hispanic or Latino,Unknown / Not Reported,29.61560981,No,No,No,Never,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),37.2,112,71,yes,yes,yes,yes,yes,yes
+INCOV051,INCOV051-2,T2,ICU,5,Male,34,Hispanic or Latino,Unknown / Not Reported,29.61560981,No,No,No,Never,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.9,114,70,yes,yes,yes,no,no,no
+INCOV052,INCOV052-1,T1,Hospital,4,Female,89,NOT Hispanic or Latino,White,28.11386593,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.7,167,78,yes,yes,yes,yes,yes,yes
+INCOV052,INCOV052-2,T2,Hospital,4,Female,89,NOT Hispanic or Latino,White,27.82405877,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.5,123,100,yes,yes,yes,no,no,no
+INCOV053,INCOV053-1,T1,ICU,4,Male,86,NOT Hispanic or Latino,White,30.70582046,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,Nasal cannula,36.8,101,63,yes,yes,yes,no,no,no
+INCOV053,INCOV053-2,T2,ICU,4,Male,86,NOT Hispanic or Latino,White,30.85804027,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,Nasal cannula,36.7,140,72,yes,yes,yes,no,no,no
+INCOV054,INCOV054-1,T1,Hospital,3,Female,72,NOT Hispanic or Latino,White,32.72228767,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,None,37.8,157,67,no,yes,yes,no,no,no
+INCOV055,INCOV055-1,T1,ICU,3,Female,67,NOT Hispanic or Latino,White,38.25898038,No,No,Yes,Former,No,No,Yes,No,T2DM,No,FALSE,None,36.4,156,77,yes,yes,yes,no,no,no
+INCOV056,INCOV056-1,T1,Home (mobile phlebotomy),1 or 2,Female,61,NOT Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV056,INCOV056-2,T2,Home (mobile phlebotomy),1 or 2,Female,61,NOT Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV057,INCOV057-1,T1,Home (mobile phlebotomy),1 or 2,Female,39,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,T1DM,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV057,INCOV057-2,T2,Home (mobile phlebotomy),1 or 2,Female,39,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,T1DM,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV058,INCOV058-1,T1,Home (mobile phlebotomy),1 or 2,Female,63,NOT Hispanic or Latino,White,NA,No,Yes,Yes,Former,Yes,No,No,No,T2DM,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV058,INCOV058-2,T2,Home (mobile phlebotomy),1 or 2,Female,63,NOT Hispanic or Latino,White,NA,No,Yes,Yes,Former,Yes,No,No,No,T2DM,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV059,INCOV059-1,T1,Hospital,4,Female,82,NOT Hispanic or Latino,White,17.97846996,Yes,Yes,No,Current,No,No,Yes,No,No,No,FALSE,Nasal cannula,36.7,106,54,yes,yes,yes,no,no,no
+INCOV059,INCOV059-2,T2,Hospital,3,Female,82,NOT Hispanic or Latino,White,18.09301567,Yes,Yes,No,Current,No,No,Yes,No,No,No,FALSE,None,36.7,117,50,yes,yes,yes,no,no,no
+INCOV060,INCOV060-1,T1,Home (mobile phlebotomy),1 or 2,Female,39,Unknown / Not Reported,Unknown / Not Reported,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV060,INCOV060-2,T2,Home (mobile phlebotomy),1 or 2,Female,39,Unknown / Not Reported,Unknown / Not Reported,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,36.2,NA,NA,yes,yes,yes,no,no,no
+INCOV061,INCOV061-1,T1,Home (mobile phlebotomy),1 or 2,Female,61,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV061,INCOV061-2,T2,Home (mobile phlebotomy),1 or 2,Female,61,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV062,INCOV062-1,T1,Hospital,4,Female,77,NOT Hispanic or Latino,Asian,29.63950617,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.8,124,61,yes,yes,yes,no,no,no
+INCOV062,INCOV062-2,T2,Hospital,4,Female,77,NOT Hispanic or Latino,Asian,27.99286694,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.6,103,52,yes,yes,yes,no,no,no
+INCOV063,INCOV063-1,T1,Home (mobile phlebotomy),1 or 2,Female,81,NOT Hispanic or Latino,White,NA,Yes,No,Yes,Never,No,No,Yes,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV063,INCOV063-2,T2,Home (mobile phlebotomy),1 or 2,Female,81,NOT Hispanic or Latino,White,NA,Yes,No,Yes,Never,No,No,Yes,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV064,INCOV064-1,T1,ICU,5,Female,76,NOT Hispanic or Latino,White,18.64686544,No,No,Yes,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.5,105,64,no,yes,yes,no,no,no
+INCOV066,INCOV066-1,T1,Home (mobile phlebotomy),1 or 2,Male,53,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV066,INCOV066-2,T2,Home (mobile phlebotomy),1 or 2,Male,53,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV067,INCOV067-1,T1,Home (mobile phlebotomy),1 or 2,Female,41,NOT Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV067,INCOV067-2,T2,Home (mobile phlebotomy),1 or 2,Female,41,NOT Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV068,INCOV068-1,T1,Home (mobile phlebotomy),1 or 2,Female,66,NOT Hispanic or Latino,White,NA,No,Yes,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV068,INCOV068-2,T2,Home (mobile phlebotomy),1 or 2,Female,66,NOT Hispanic or Latino,White,NA,No,Yes,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV069,INCOV069-1,T1,Hospital,3,Male,61,NOT Hispanic or Latino,White,31.26369613,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,36.8,115,65,yes,yes,yes,no,no,no
+INCOV069,INCOV069-2,T2,Home (mobile phlebotomy),1 or 2,Male,61,NOT Hispanic or Latino,White,NA,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV070,INCOV070-1,T1,ICU,6,Male,42,Hispanic or Latino,Unknown / Not Reported,31.96603108,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,Other,37.3,128,72,yes,yes,yes,no,no,no
+INCOV070,INCOV070-2,T2,Clinic,2,Male,42,Hispanic or Latino,Unknown / Not Reported,31.96603108,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,Other,37.7,111,69,yes,yes,yes,no,no,no
+INCOV071,INCOV071-1,T1,ICU,4,Female,80,NOT Hispanic or Latino,White,19.16337149,No,No,No,Never,No,Yes,No,No,No,No,FALSE,Nasal cannula,36.8,144,59,yes,yes,yes,no,no,no
+INCOV071,INCOV071-2,T2,Clinic,1,Female,80,NOT Hispanic or Latino,White,19.97918835,No,No,No,Never,No,Yes,No,No,No,No,FALSE,Nasal cannula,36.2,137,59,yes,yes,yes,no,no,no
+INCOV072,INCOV072-1,T1,ICU,4,Female,84,NOT Hispanic or Latino,White,13.86747292,No,No,Yes,Former,Yes,No,Yes,No,No,No,FALSE,Nasal cannula,36.8,129,81,yes,yes,yes,no,no,no
+INCOV072,INCOV072-2,T2,Hospital,4,Female,84,NOT Hispanic or Latino,White,15.68153187,No,No,Yes,Former,Yes,No,Yes,No,No,No,FALSE,Nasal cannula,37.1,105,51,yes,yes,yes,no,no,no
+INCOV073,INCOV073-1,T1,Hospital,4,Female,55,Hispanic or Latino,Unknown / Not Reported,27.99536407,No,No,No,Unknown,No,No,No,No,No,No,FALSE,Nasal cannula,36.5,121,71,yes,yes,yes,no,no,no
+INCOV073,INCOV073-2,T2,Hospital,3,Female,55,Hispanic or Latino,Unknown / Not Reported,29.952129,No,No,No,Unknown,No,No,No,No,No,No,FALSE,None,36.2,116,81,yes,yes,yes,no,no,no
+INCOV074,INCOV074-1,T1,Home (mobile phlebotomy),1 or 2,Female,30,NOT Hispanic or Latino,White,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV074,INCOV074-2,T2,Home (mobile phlebotomy),1 or 2,Female,30,NOT Hispanic or Latino,White,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV075,INCOV075-1,T1,ICU,7,Male,57,NOT Hispanic or Latino,Asian,23.22906574,No,No,Yes,Never,No,No,No,No,T2DM,No,TRUE,Other,37.1,147,52,yes,yes,yes,no,no,no
+INCOV075,INCOV075-2,T2,ICU,6,Male,57,NOT Hispanic or Latino,Asian,24.04844291,No,No,Yes,Never,No,No,No,No,T2DM,No,TRUE,Other,37.2,112,47,yes,yes,yes,no,no,no
+INCOV076,INCOV076-1,T1,Clinic,1 or 2,Female,47,NOT Hispanic or Latino,Asian,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV076,INCOV076-2,T2,Home (mobile phlebotomy),1 or 2,Female,47,NOT Hispanic or Latino,Asian,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV077,INCOV077-1,T1,Home (mobile phlebotomy),1,Female,51,NOT Hispanic or Latino,White,NA,Yes,Yes,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV077,INCOV077-2,T2,Home (mobile phlebotomy),1,Female,51,NOT Hispanic or Latino,White,NA,Yes,Yes,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV078,INCOV078-1,T1,Home (mobile phlebotomy),1,Female,58,NOT Hispanic or Latino,More Than One Race,NA,Yes,No,Yes,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV078,INCOV078-2,T2,Home (mobile phlebotomy),1,Female,58,NOT Hispanic or Latino,More Than One Race,NA,Yes,No,Yes,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV079,INCOV079-1,T1,Hospital,4,Female,83,NOT Hispanic or Latino,White,27.27888903,No,Yes,Yes,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.3,106,56,yes,yes,yes,no,no,no
+INCOV079,INCOV079-2,T2,Hospital,4,Female,83,NOT Hispanic or Latino,White,27.27888903,No,Yes,Yes,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.7,134,103,yes,yes,yes,no,no,no
+INCOV080,INCOV080-1,T1,ICU,4,Male,66,Hispanic or Latino,White,28.96295366,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.6,132,84,yes,yes,yes,no,no,no
+INCOV080,INCOV080-2,T2,Hospital,4,Male,66,Hispanic or Latino,White,27.61664234,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.7,122,64,yes,yes,yes,no,no,no
+INCOV081,INCOV081-1,T1,Home (mobile phlebotomy),1 or 2,Male,23,Hispanic or Latino,Unknown / Not Reported,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV081,INCOV081-2,T2,Home (mobile phlebotomy),1 or 2,Male,23,Hispanic or Latino,Unknown / Not Reported,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV082,INCOV082-1,T1,Home (mobile phlebotomy),1 or 2,Female,60,NOT Hispanic or Latino,White,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV082,INCOV082-2,T2,Home (mobile phlebotomy),1 or 2,Female,60,NOT Hispanic or Latino,White,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV083,INCOV083-1,T1,Clinic,1 or 2,Female,42,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV083,INCOV083-2,T2,Clinic,1 or 2,Female,42,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV084,INCOV084-1,T1,ICU,7,Female,57,NOT Hispanic or Latino,Asian,28.82132142,No,Yes,No,Never,No,No,No,No,No,No,TRUE,Other,37.5,102,53,no,yes,yes,no,no,no
+INCOV085,INCOV085-1,T1,Home (mobile phlebotomy),1,Female,36,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,no,no,yes,no,no,no
+INCOV086,INCOV086-1,T1,ICU,5,Male,71,NOT Hispanic or Latino,White,18.50315037,No,Yes,No,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.6,119,52,yes,yes,yes,no,no,no
+INCOV086,INCOV086-2,T2,ICU,5,Male,71,NOT Hispanic or Latino,White,17.50204708,No,Yes,No,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.8,143,73,yes,yes,yes,no,no,no
+INCOV087,INCOV087-1,T1,ICU,5,Male,56,Hispanic or Latino,Unknown / Not Reported,27.19323098,No,No,No,Never,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),37.2,132,78,yes,yes,yes,no,no,no
+INCOV087,INCOV087-2,T2,ICU,4,Male,56,Hispanic or Latino,Unknown / Not Reported,27.19323098,No,No,No,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.3,121,82,yes,yes,yes,no,no,no
+INCOV088,INCOV088-1,T1,Home (mobile phlebotomy),1,Male,24,NOT Hispanic or Latino,White,NA,Yes,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV088,INCOV088-2,T2,Home (mobile phlebotomy),1 or 2,Male,24,NOT Hispanic or Latino,White,NA,Yes,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV090,INCOV090-1,T1,Hospital,4,Female,69,NOT Hispanic or Latino,White,38.125,No,No,No,Former,Yes,No,No,No,T2DM,No,FALSE,Nasal cannula,37.6,146,54,yes,yes,yes,no,no,no
+INCOV090,INCOV090-2,T2,Hospital,4,Female,69,NOT Hispanic or Latino,White,37.578125,No,No,No,Former,Yes,No,No,No,T2DM,No,FALSE,Nasal cannula,37.1,133,58,yes,yes,yes,no,no,no
+INCOV091,INCOV091-1,T1,Hospital,4,Male,81,NOT Hispanic or Latino,Asian,28.63220514,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,Nasal cannula,36.6,101,61,yes,yes,yes,no,no,no
+INCOV091,INCOV091-2,T2,Hospital,3,Male,81,NOT Hispanic or Latino,Asian,27.34621442,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,None,36.6,151,87,yes,yes,yes,no,no,no
+INCOV092,INCOV092-1,T1,Home (mobile phlebotomy),1 or 2,Female,75,NOT Hispanic or Latino,White,NA,No,Yes,Yes,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV092,INCOV092-2,T2,Home (mobile phlebotomy),1 or 2,Female,75,NOT Hispanic or Latino,White,NA,No,Yes,Yes,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV093,INCOV093-1,T1,Hospital,3,Male,66,NOT Hispanic or Latino,White,27.75421288,Yes,No,Yes,Former,No,No,No,No,T2DM,No,FALSE,None,36.9,150,82,yes,yes,yes,no,no,no
+INCOV093,INCOV093-2,T2,Home (mobile phlebotomy),1 or 2,Male,66,NOT Hispanic or Latino,White,NA,Yes,No,Yes,Former,No,No,No,No,T2DM,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV094,INCOV094-1,T1,Home (mobile phlebotomy),1 or 2,Female,38,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV094,INCOV094-2,T2,Home (mobile phlebotomy),1 or 2,Female,38,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV095,INCOV095-1,T1,Hospital,4,Male,47,NOT Hispanic or Latino,Unknown / Not Reported,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.5,115,72,no,yes,no,no,no,no
+INCOV096,INCOV096-1,T1,ICU,6,Male,72,NOT Hispanic or Latino,White,32.82259893,No,Yes,Yes,Former,No,No,No,No,T2DM,No,TRUE,Other,37.2,92,68,yes,yes,yes,no,no,no
+INCOV096,INCOV096-2,T2,ICU,6,Male,72,NOT Hispanic or Latino,White,32.60726791,No,Yes,Yes,Former,No,No,No,No,T2DM,No,TRUE,Other,36.1,104,70,yes,yes,yes,no,no,no
+INCOV097,INCOV097-1,T1,Home (mobile phlebotomy),1 or 2,Female,26,NOT Hispanic or Latino,Asian,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV097,INCOV097-2,T2,Home (mobile phlebotomy),1 or 2,Female,26,NOT Hispanic or Latino,Asian,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV098,INCOV098-1,T1,Hospital,3,Female,50,NOT Hispanic or Latino,American Indian/Alaska Native,43.79933098,No,No,No,Never,No,No,No,No,No,No,FALSE,None,36.5,137,86,yes,yes,yes,no,no,no
+INCOV098,INCOV098-2,T2,Home (mobile phlebotomy),1 or 2,Female,50,NOT Hispanic or Latino,American Indian/Alaska Native,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV099,INCOV099-1,T1,ICU,5,Male,83,NOT Hispanic or Latino,White,26.59445521,No,Yes,Yes,Former,No,No,No,No,No,No,FALSE,High flow nasal cannula (HFNC),37.1,153,99,no,yes,no,no,no,no
+INCOV100,INCOV100-1,T1,Home (mobile phlebotomy),1 or 2,Female,32,NOT Hispanic or Latino,Asian,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV100,INCOV100-2,T2,Home (mobile phlebotomy),1 or 2,Female,32,NOT Hispanic or Latino,Asian,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV101,INCOV101-1,T1,Clinic,1 or 2,Female,19,Hispanic or Latino,White,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV101,INCOV101-2,T2,Home (mobile phlebotomy),1 or 2,Female,19,Hispanic or Latino,White,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV102,INCOV102-1,T1,Home (mobile phlebotomy),1 or 2,Female,55,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV102,INCOV102-2,T2,Home (mobile phlebotomy),1 or 2,Female,55,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV103,INCOV103-1,T1,Home (mobile phlebotomy),1 or 2,Female,25,Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV103,INCOV103-2,T2,Home (mobile phlebotomy),1 or 2,Female,25,Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV104,INCOV104-1,T1,Hospital,3,Female,32,NOT Hispanic or Latino,Unknown / Not Reported,29.79087931,Yes,No,No,Never,No,No,No,No,T2DM,No,FALSE,None,37.2,110,72,yes,yes,yes,no,no,no
+INCOV104,INCOV104-2,T2,Home (mobile phlebotomy),1 or 2,Female,32,NOT Hispanic or Latino,Unknown / Not Reported,NA,Yes,No,No,Never,No,No,No,No,T2DM,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV105,INCOV105-1,T1,Hospital,4,Female,27,Hispanic or Latino,Unknown / Not Reported,40.59460821,Yes,No,No,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.6,107,59,yes,yes,yes,no,no,no
+INCOV105,INCOV105-2,T2,Clinic,1 or 2,Female,27,Hispanic or Latino,Unknown / Not Reported,NA,Yes,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV106,INCOV106-1,T1,ICU,7,Female,81,NOT Hispanic or Latino,American Indian/Alaska Native,24.16554332,No,No,No,Never,No,No,No,No,No,No,TRUE,Other,37.1,97,48,yes,yes,yes,no,no,no
+INCOV106,INCOV106-2,T2,ICU,7,Female,81,NOT Hispanic or Latino,American Indian/Alaska Native,24.52157342,No,No,No,Never,No,No,No,No,No,No,TRUE,Other,37.2,126,58,yes,yes,yes,no,no,no
+INCOV107,INCOV107-1,T1,Home (mobile phlebotomy),1 or 2,Male,71,NOT Hispanic or Latino,White,NA,No,No,Yes,Former,No,No,No,Yes,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV107,INCOV107-2,T2,Home (mobile phlebotomy),1 or 2,Male,71,NOT Hispanic or Latino,White,NA,No,No,Yes,Former,No,No,No,Yes,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV108,INCOV108-1,T1,Home (mobile phlebotomy),1,Male,57,NOT Hispanic or Latino,White,27.72020475,No,No,Yes,Former,No,No,No,No,No,No,FALSE,None,36.8,128,70,yes,yes,yes,no,no,no
+INCOV108,INCOV108-2,T2,Home (mobile phlebotomy),1 or 2,Male,57,NOT Hispanic or Latino,White,NA,No,No,Yes,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV109,INCOV109-1,T1,Home (mobile phlebotomy),1 or 2,Female,36,Unknown / Not Reported,White,NA,No,No,No,Never,No,No,No,No,Other,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV109,INCOV109-2,T2,Home (mobile phlebotomy),1 or 2,Female,36,Unknown / Not Reported,White,NA,No,No,No,Never,No,No,No,No,Other,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV110,INCOV110-1,T1,Home (mobile phlebotomy),1 or 2,Female,41,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,NA,Yes,No,No,Current,No,No,No,No,Other,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV110,INCOV110-2,T2,Home (mobile phlebotomy),1 or 2,Female,41,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,NA,Yes,No,No,Current,No,No,No,No,Other,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV111,INCOV111-1,T1,ICU,4,Male,28,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,49.56294629,No,No,No,Never,No,No,No,No,No,No,FALSE,Nasal cannula,37,100,65,yes,yes,yes,no,no,no
+INCOV111,INCOV111-2,T2,ICU,4,Male,28,NOT Hispanic or Latino,Native Hawaiian or Other Pacific Islander,48.54657706,No,No,No,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.7,130,76,yes,yes,yes,no,no,no
+INCOV112,INCOV112-1,T1,Home (mobile phlebotomy),1 or 2,Male,32,Unknown / Not Reported,Unknown / Not Reported,NA,No,No,No,NA,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV112,INCOV112-2,T2,Home (mobile phlebotomy),1 or 2,Male,32,Unknown / Not Reported,Unknown / Not Reported,NA,No,No,No,NA,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV113,INCOV113-1,T1,Home (mobile phlebotomy),1 or 2,Female,33,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV113,INCOV113-2,T2,Home (mobile phlebotomy),1 or 2,Female,33,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV114,INCOV114-1,T1,Home (mobile phlebotomy),1 or 2,Female,32,NOT Hispanic or Latino,White,39.26198203,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV114,INCOV114-2,T2,Home (mobile phlebotomy),1,Female,32,NOT Hispanic or Latino,White,40.46901137,No,No,No,Never,No,No,No,No,No,No,FALSE,None,37.2,144,88,yes,yes,yes,no,no,no
+INCOV115,INCOV115-1,T1,ICU,3,Male,69,NOT Hispanic or Latino,White,32.49392196,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,37,155,71,yes,yes,yes,no,no,no
+INCOV115,INCOV115-2,T2,Hospital,3,Male,69,NOT Hispanic or Latino,White,32.49392196,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,36.6,125,59,yes,yes,yes,no,no,no
+INCOV116,INCOV116-1,T1,Home (mobile phlebotomy),1 or 2,Female,27,Unknown / Not Reported,Unknown / Not Reported,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV116,INCOV116-2,T2,Home (mobile phlebotomy),1 or 2,Female,27,Unknown / Not Reported,Unknown / Not Reported,NA,Yes,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV117,INCOV117-1,T1,Hospital,4,Male,39,Hispanic or Latino,Unknown / Not Reported,30.51548092,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,Nasal cannula,36.8,119,75,yes,yes,yes,no,no,no
+INCOV117,INCOV117-2,T2,Hospital,4,Male,39,Hispanic or Latino,Unknown / Not Reported,20.51796953,No,No,Yes,Never,No,No,No,No,T2DM,No,FALSE,Nasal cannula,36.8,121,73,yes,yes,yes,no,no,no
+INCOV119,INCOV119-1,T1,Home (mobile phlebotomy),1 or 2,Female,53,NOT Hispanic or Latino,Black or African American,NA,No,No,Yes,NA,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV119,INCOV119-2,T2,Home (mobile phlebotomy),1,Female,53,NOT Hispanic or Latino,Black or African American,NA,No,No,Yes,NA,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV120,INCOV120-1,T1,Home (mobile phlebotomy),1 or 2,Female,26,NOT Hispanic or Latino,White,NA,No,No,No,Current,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV120,INCOV120-2,T2,Home (mobile phlebotomy),1 or 2,Female,26,NOT Hispanic or Latino,White,NA,No,No,No,Current,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV121,INCOV121-1,T1,Hospital,4,Female,86,NOT Hispanic or Latino,White,21.50249771,No,No,Yes,Former,No,Yes,No,No,T2DM,No,FALSE,Nasal cannula,35.6,106,80,yes,yes,yes,no,no,no
+INCOV121,INCOV121-2,T2,Hospital,4,Female,86,NOT Hispanic or Latino,White,21.85849933,No,No,Yes,Former,No,Yes,No,No,T2DM,No,FALSE,Nasal cannula,36.3,119,68,yes,yes,yes,no,no,no
+INCOV122,INCOV122-1,T1,Home (mobile phlebotomy),1 or 2,Female,53,NOT Hispanic or Latino,Asian,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV122,INCOV122-2,T2,Home (mobile phlebotomy),1 or 2,Female,53,NOT Hispanic or Latino,Asian,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV123,INCOV123-1,T1,Home (mobile phlebotomy),1 or 2,Female,42,NOT Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV123,INCOV123-2,T2,Home (mobile phlebotomy),1 or 2,Female,42,NOT Hispanic or Latino,White,NA,No,No,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV124,INCOV124-1,T1,Hospital,4,Male,48,NOT Hispanic or Latino,Asian,28.40617926,No,No,Yes,Never,No,No,No,No,No,No,FALSE,Nasal cannula,36.7,106,74,yes,yes,yes,no,no,no
+INCOV124,INCOV124-2,T2,Home (mobile phlebotomy),1 or 2,Male,48,NOT Hispanic or Latino,Asian,NA,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV125,INCOV125-1,T1,Hospital,4,Male,50,NOT Hispanic or Latino,Asian,24.4929113,No,No,Yes,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.6,107,77,yes,yes,yes,no,no,no
+INCOV125,INCOV125-2,T2,Hospital,3,Male,50,NOT Hispanic or Latino,Asian,25.16931437,No,No,Yes,Former,No,No,No,No,No,No,FALSE,None,37,112,75,yes,yes,yes,no,no,no
+INCOV126,INCOV126-1,T1,Home (mobile phlebotomy),1 or 2,Female,36,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV126,INCOV126-2,T2,Home (mobile phlebotomy),1 or 2,Female,36,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV127,INCOV127-1,T1,Home (mobile phlebotomy),1 or 2,Male,63,NOT Hispanic or Latino,White,NA,No,No,No,Current,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV127,INCOV127-2,T2,Home (mobile phlebotomy),1 or 2,Male,63,NOT Hispanic or Latino,White,NA,No,No,No,Current,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV128,INCOV128-1,T1,Home (mobile phlebotomy),1,Female,62,NOT Hispanic or Latino,White,NA,No,Yes,Yes,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV128,INCOV128-2,T2,Home (mobile phlebotomy),1 or 2,Female,62,NOT Hispanic or Latino,White,NA,No,Yes,Yes,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV129,INCOV129-1,T1,Home (mobile phlebotomy),1 or 2,Male,27,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,no,no,no,no,no
+INCOV129,INCOV129-2,T2,#N/A,#N/A,Male,27,NOT Hispanic or Latino,White,#N/A,No,No,No,Never,No,No,No,No,No,No,#N/A,#N/A,#N/A,#N/A,#N/A,yes,no,no,no,no,no
+INCOV130,INCOV130-1,T1,ICU,4,Male,44,NOT Hispanic or Latino,White,25.6595553,No,No,Yes,Former,No,Yes,No,No,No,No,FALSE,Nasal cannula,36.8,84,57,yes,yes,yes,no,no,no
+INCOV130,INCOV130-2,T2,Hospital,3,Male,44,NOT Hispanic or Latino,White,22.895771,No,No,Yes,Former,No,Yes,No,No,No,No,FALSE,None,36.5,104,76,yes,yes,yes,no,no,no
+INCOV131,INCOV131-1,T1,Home (mobile phlebotomy),1 or 2,Female,55,NOT Hispanic or Latino,White,NA,No,Yes,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV131,INCOV131-2,T2,Home (mobile phlebotomy),1 or 2,Female,55,NOT Hispanic or Latino,White,NA,No,Yes,No,Former,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV132,INCOV132-1,T1,Home (mobile phlebotomy),1 or 2,Female,37,NOT Hispanic or Latino,Black or African American,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV132,INCOV132-2,T2,Home (mobile phlebotomy),1,Female,37,NOT Hispanic or Latino,Black or African American,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV133,INCOV133-1,T1,Hospital,4,Female,63,NOT Hispanic or Latino,Black or African American,29.4462449,No,No,Yes,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.4,109,65,yes,yes,yes,no,no,no
+INCOV133,INCOV133-2,T2,Hospital,4,Female,63,NOT Hispanic or Latino,Black or African American,29.34268249,No,No,Yes,Former,No,No,No,No,No,No,FALSE,Nasal cannula,36.99,121,83,yes,yes,yes,no,no,no
+INCOV134,INCOV134-1,T1,Home (mobile phlebotomy),1 or 2,Female,28,NOT Hispanic or Latino,Black or African American,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV134,INCOV134-2,T2,Home (mobile phlebotomy),1,Female,28,NOT Hispanic or Latino,Black or African American,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV135,INCOV135-1,T1,Home (mobile phlebotomy),1 or 2,Female,50,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV135,INCOV135-2,T2,Home (mobile phlebotomy),1 or 2,Female,50,NOT Hispanic or Latino,White,NA,No,No,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,yes,yes,no,no,no
+INCOV136,INCOV136-1,T1,Hospital,4,Female,42,Hispanic or Latino,Unknown / Not Reported,56.05844545,No,No,No,Never,No,No,No,No,T2DM,No,FALSE,Nasal cannula,36.9,110,69,yes,yes,yes,no,no,no
+INCOV136,INCOV136-2,T2,Hospital,3,Female,42,Hispanic or Latino,Unknown / Not Reported,56.10150109,No,No,No,Never,No,No,No,No,T2DM,No,FALSE,None,36.4,113,63,yes,yes,yes,no,no,no
+INCOV137,INCOV137-1,T1,ICU,5,Male,53,NOT Hispanic or Latino,Black or African American,54.44988668,No,No,Yes,Former,No,No,No,No,T2DM,No,FALSE,High flow nasal cannula (HFNC),36.5,143,98,yes,yes,yes,no,no,no
+INCOV137,INCOV137-2,T2,ICU,3,Male,53,NOT Hispanic or Latino,Black or African American,55.5521111,No,No,Yes,Former,No,No,No,No,T2DM,No,FALSE,None,36.9,154,84,yes,yes,yes,no,no,no
+INCOV139,INCOV139-1,T1,Hospital,4,Male,66,NOT Hispanic or Latino,Black or African American,20.68714168,Yes,Yes,Yes,Former,No,No,Yes,No,No,No,FALSE,Nasal cannula,37.2,114,74,no,yes,yes,no,no,no
+INCOV139,INCOV139-2,T2,Hospital,4,Male,66,NOT Hispanic or Latino,Black or African American,20.68714168,Yes,Yes,Yes,Former,No,No,Yes,No,No,No,FALSE,Nasal cannula,37.2,139,88,no,yes,yes,no,no,no
+INCOV141,INCOV141-1,T1,Home (mobile phlebotomy),1,Male,31,NOT Hispanic or Latino,White,26.57506589,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,no,yes,no,no,no
+INCOV141,INCOV141-2,T2,Home (mobile phlebotomy),1,Male,31,NOT Hispanic or Latino,White,NA,No,No,Yes,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,no,yes,no,no,no
+INCOV142,INCOV142-1,T1,ICU,5,Male,64,NOT Hispanic or Latino,Asian,30.98041964,No,No,Yes,Former,No,Yes,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.2,104,45,yes,yes,yes,no,no,no
+INCOV142,INCOV142-2,T2,Hospital,5,Male,64,NOT Hispanic or Latino,Asian,28.66694674,No,No,Yes,Former,No,Yes,No,No,No,No,FALSE,High flow nasal cannula (HFNC),36.7,134,68,yes,yes,yes,no,no,no
+INCOV144,INCOV144-1,T1,Home (mobile phlebotomy),1 or 2,Female,67,NOT Hispanic or Latino,White,NA,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,no,yes,no,no,no
+INCOV144,INCOV144-2,T2,Home (mobile phlebotomy),1,Female,67,NOT Hispanic or Latino,White,NA,No,Yes,No,Never,No,No,No,No,No,No,FALSE,None,NA,NA,NA,yes,no,yes,no,no,no
+INCOV145,INCOV145-1,T1,Hospital,4,Male,55,NOT Hispanic or Latino,White,35.87150031,No,No,Yes,Former,Yes,No,No,No,T2DM,No,FALSE,Nasal cannula,36.9,148,85,yes,no,yes,no,no,no
+INCOV145,INCOV145-2,T2,Hospital,4,Male,55,NOT Hispanic or Latino,White,35.33374414,No,No,Yes,Former,Yes,No,No,No,T2DM,No,FALSE,Nasal cannula,36.7,146,92,yes,no,yes,no,no,no
+INCOV147,INCOV147-1,T1,ICU,6,Female,62,NOT Hispanic or Latino,White,36.5924662,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,Other,37.7,152,68,yes,no,no,no,no,no
+INCOV147,INCOV147-2,T2,Clinic,2,Female,62,NOT Hispanic or Latino,White,33.96681088,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,Other,37.8,115,54,yes,no,no,no,no,no
